@@ -6,6 +6,6 @@
 <table>
 <tr>
 <td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="" alt="🦑" src="/frog.gif"></td>
+<td><img align="" width="100%" alt="🦑" src="/frog.gif"></td>
 </tr>
 </table>
