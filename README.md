@@ -5,7 +5,7 @@
 </table>
 <table>
 <tr>
-<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
-<td><img align="" width="100%" alt="🦑" src="/frog.gif"></td>
+<td width="1500"><img align="center" width="" alt="🦑" src="/bottom.svg"></td>
+<td width="500"><img align="center" width="100%" alt="🦑" src="/frog.gif"></td>
 </tr>
 </table>
